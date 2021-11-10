@@ -1,16 +1,21 @@
 # 👋 Florian Z.
 
-# My Stack
+## My Stack
 - Python
 - SQL
-Following:
-- Jvascript
+## Following
+- Javascript
 - Java
 - PHP
-Other Tech I worked with:
+## Other Tech I worked with
 - Wordpress
+- a lot of projectmanagement tech
 
-My workfields are mechatronics, law, finance and business informatics.
+## My working fields are 
+- mechatronics
+- law
+- finance
+- business informatics
 
 Contact me on:
 twitter - @flnthezeba
