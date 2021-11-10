@@ -17,7 +17,6 @@
 - finance
 - business informatics
 
-Contact me on:
-twitter - @flnthezeba
-E-Mail - ask me on twitter
-
+### Contact me on:
+- twitter - @flnthezeba
+- E-Mail - ask me on twitter
