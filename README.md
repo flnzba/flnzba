@@ -1,15 +1,9 @@
 # 👋 Florian Z.
 
-## My Stack
-- Python
+## Stack
+- Python (Pandas, numpy, pytorch, tensorflow, scikit-learn, BeautifulSoup)
 - SQL
-## Following
-- Javascript
-- Java
-- PHP
-## Other Tech I worked with
-- Wordpress
-- a lot of projectmanagement tech
+- Javascript / Typescript
 
 ## My working fields are 
 - mechatronics
@@ -19,4 +13,4 @@
 
 ### Contact me on:
 - twitter - @flnthezeba
-- E-Mail - ask me on twitter
+- E-Mail - fln.zeba@gmail.com
