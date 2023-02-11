@@ -1,16 +1,28 @@
 # 👋 Florian Z.
 
-## Stack
-- Python (Pandas, numpy, pytorch, tensorflow, scikit-learn, BeautifulSoup)
-- SQL
-- Javascript / Typescript
+## 🖥️ Programming-Skill Stack
+HTML, CSS, SCSS
+Javascript [Typescript, React]
+Ruby
+Python [Pandas, Scikit, numpy, pytorch]
+SQL
+git
+docker
 
-## My working fields are 
-- mechatronics
-- law
-- finance
-- business informatics
+## 📊 Business-Intelligence-Skill Stack
+Qlik
+Microsoft Power BI
+KNIME
+Alteryx
 
-### Contact me on:
-- twitter - @flnthezeba
-- E-Mail - florian@fzeba.com
+## 📊 Business-Skill Stack
+Finance
+Controlling
+Project Management
+Austrian & European Law
+Digital Marketing
+
+## ✏️ Contact
+Github: flnzba
+Linkedin: Florian Zeba
+E-Mail: florian@fzeba.com
