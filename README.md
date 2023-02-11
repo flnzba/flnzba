@@ -13,4 +13,4 @@
 
 ### Contact me on:
 - twitter - @flnthezeba
-- E-Mail - fln.zeba@gmail.com
+- E-Mail - florian@fzeba.com
