@@ -1,9 +1,9 @@
 # 👋 Florian Z.
 
 ## 🖥️ Programming-Skill Stack
-+ HTML, CSS, SCSS
-+ Javascript [Typescript, React]
-+ Ruby
++ HTML, CSS, SCSS, Tailwind
++ Astro
++ Javascript
 + Python [Pandas, Scikit, numpy, pytorch]
 + SQL
 + git
