@@ -1,13 +1,12 @@
 # 👋 Florian Z.
 
 ## 🖥️ Programming-Skill Stack
-+ HTML, CSS, SCSS, Tailwind
 + Astro
-+ Javascript
++ Javascript Vanilla
 + Python [Pandas, Scikit, numpy, pytorch]
 + SQL
-+ git
 + docker
++ Java
 
 ## 📊 Business-Intelligence-Skill Stack
 + Qlik
