@@ -50,6 +50,8 @@ I create:
 
 [Link to Leetcode Repo](https://github.com/flnzba/leetcode/blob/main/README.md)
 
+---
+
 ## 📊 Business-Intelligence-Skill Stack
 + Qlik
 + Microsoft Power BI
