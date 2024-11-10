@@ -46,7 +46,9 @@ I create:
 
 <p align="left"><a href="https://buymeacoffee.com/flnzba" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=flat-square&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://ko-fi.com/flnzba" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=flat-square&logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
 
-##
+## Leetcode Solutions
+
+[Link to Leetcode Repo](https://github.com/flnzba/leetcode/blob/main/README.md)
 
 ## 📊 Business-Intelligence-Skill Stack
 + Qlik
