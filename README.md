@@ -15,4 +15,4 @@
 
 <p> <a href="https://www.linkedin.com/in/florian-zeba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<p> <a href="https://www.fzeba.com" target="_blank"><img src="https://img.shields.io/badge/fzeba.com" height="28" style="margin-right: 4px"></a></p>
+<p> <a href="https://www.fzeba.com" target="_blank"><img src="https://img.shields.io/badge/fzeba.com-blue" height="28" style="margin-right: 4px"></a></p>
